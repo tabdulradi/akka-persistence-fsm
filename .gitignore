@@ -1,0 +1,5 @@
+target/
+.idea/
+activator
+activator-launch-*.jar
+
